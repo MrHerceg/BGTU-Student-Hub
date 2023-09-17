@@ -1,26 +1,26 @@
 # BGTU-Student-Hub
 
-Мы представляем вам наше мобильное приложение, разработанное специально для студентов БрГТУ, чтобы сделать вашу учебную жизнь более организованной и информативной. BGTU Student Hub - это ваш надежный спутник в мире образования.
+We present to you our mobile application designed specifically for BrSTU students to make your academic life more organized and informative. BGTU Student Hub is your reliable companion in the world of education.
 
-Цель мобильного приложения:
-Цель данного мобильного приложения - упростить и улучшить учебный опыт студентов БрГТУ, предоставляя им все необходимые инструменты и информацию в одном месте. Приложение стремится обеспечить студентов удобством и доступностью к актуальной информации, связанной с их учебным процессом, а также содействовать общению и взаимодействию между студентами и учебным персоналом.
+The purpose of the mobile application: 
+The purpose of this mobile application is to simplify and improve the learning experience of BrSTU students by providing them with all the necessary tools and information in one place. The application aims to provide students with convenience and accessibility to up-to-date information related to their learning process, as well as to facilitate communication and interaction between students and teaching staff.
 
-Предметная область:
-Предметная область мобильного приложения охватывает учебный процесс студентов БрГТУ. Это включает в себя следующие аспекты:
+Subject area: 
+The subject area of the mobile application covers the educational process of BrSTU students. This includes the following aspects:
 
-1. Личные аккаунты для студентов: После предварительной регистрации в приложении с использованием своего студенческого билета, каждый студент получает доступ к индивидуальной учетной записи.
-2. Персональное расписание: Мы предоставляем вам индивидуальное расписание, созданное специально для вас. Теперь вы всегда будете в курсе, когда и где проходят ваши занятия.
-3. Учет пропусков: В приложении можно легко отслеживать все ваши пропуски занятий.
-4. Информация по предметам: Вы найдете всю необходимую информацию о будущих лабораторных работах, практических занятиях и самостоятельных работах для каждого из ваших предметов.
-5. Экзамены и зачеты: Приложение также предоставляет вам расписание всех предстоящих экзаменов и зачетов, помогая вам эффективно готовиться.
-6. Образовательные материалы: У нас есть общий доступ к лекциям, электронным учебникам и различным материалам, чтобы помочь вам в учебе.
-7. Уведомления от деканатов: Студентам будут приходить уведомления с деканатов с важной информацией по мере необходимости.
-8. Чаты и общение: Мы предоставляем отдельные чаты для общения с преподавателями и деканатом, а также общие чаты для студентов, проживающих в общежитиях.
-9. Информация для общежитий: Для студентов, проживающих в общежитиях, также доступна информация о питании, расписании мероприятий и другие полезные сведения, включая уведомления от воспитателей и заведующих.
+1. Personal accounts for students: After pre-registration in the application using their student ID, each student gets access to an individual account.
+2. Personal schedule: We provide you with an individual schedule created especially for you. Now you will always know when and where your classes are held.
+3. Registration of absences: In the application, you can easily track all your absences from classes.
+4. Information on subjects: You will find all the necessary information about future laboratory work, practical classes and independent work for each of your subjects.
+5. Exams and Tests: The app also provides you with a schedule of all upcoming exams and tests, helping you prepare effectively.
+6. Educational materials: We have shared access to lectures, electronic textbooks and various materials to help you with your studies.
+7. Notifications from Deans: Students will receive notifications from deans with important information as needed.
+8. Chats and communication: We provide separate chats for communication with teachers and the dean's office, as well as general chats for students living in dormitories.
+9. Information for dormitories: For students living in dormitories, information about meals, event schedules and other useful information is also available, including notifications from educators and supervisors.
 
-Проблема и решение:
-Одной из основных проблем, с которой сталкиваются студенты, является несоразмерно большое количество информации и ее фрагментация по разным источникам. Это приводит к потере времени на поиск актуальных данных, затрудняет планирование учебных активностей и организацию времени.
+Problem and Solution:
+One of the main problems faced by students is a disproportionately large amount of information and its fragmentation by different sources. This leads to a loss of time to search for up-to-date data, complicates the planning of educational activities and the organization of time.
 
-Мобильное приложение решает эту проблему, предоставляя студентам централизованный и структурированный доступ к всей необходимой информации о их учебной программе. Оно позволяет студентам легко следить за расписанием, управлять своими учебными обязанностями, общаться с преподавателями и получать важные уведомления от деканатов, обеспечивая эффективное и успешное учебное прохождение. Таким образом, приложение помогает оптимизировать учебный процесс и повышает удовлетворенность студентов от их учебного опыта.
+The mobile application solves this problem by providing students with centralized and structured access to all the necessary information about their curriculum. It allows students to easily monitor their schedules, manage their academic responsibilities, communicate with teachers and receive important notifications from deans, ensuring effective and successful academic passage. Thus, the application helps to optimize the learning process and increases students' satisfaction with their learning experience.
 
-BGTU Student Hub - ваш надежный спутник в мире образования. Cделайте вашу учебную жизнь более удобной и продуктивной.
+BGTU Student Hub is your reliable companion in the world of education. Make your study life more convenient and productive.
